@@ -1,13 +1,12 @@
 package br.dheftyrdev.aplication;
 
-import br.dheftyrdev.boargame.Position;
+import br.dheftyrdev.boargame.Board;
 
 public class Program {
 
 	public static void main(String[] args) {
 		
-		Position posi = new Position(2,5);
-		System.out.println(posi);
+		Board board = new Board(8, 8);
 
 	}
 
