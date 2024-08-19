@@ -38,7 +38,17 @@ Esse projeto consistem em o usuário digitar dois números e gravar em sua respc
 | `Subtração` | `-` |
 | `Divisão` | `/` |
 | `Mod (Resto da divisão)` | `%` |
+#
 
+### Calculo do Circulo
+Aqui estamos colocando ainda em prática a expreções aritiméticas com certo nível de dificuldade.
+
+**Apredemos aqui:**
+- Resultado do calculo de uma circulo através de seu raio.
+
+| Fórmula do calculo |
+| ------------------ |
+|    A = PI * raio²   |
 
 #
 > **Contato**
