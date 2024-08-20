@@ -40,7 +40,7 @@ Esse projeto consistem em o usuário digitar dois números e gravar em sua respc
 | `Mod (Resto da divisão)` | `%` |
 #
 
-### Calculo do Circulo
+### Calculo do Círculo
 Aqui estamos colocando ainda em prática a expreções aritiméticas com certo nível de dificuldade.
 
 **Apredemos aqui:**
@@ -48,7 +48,21 @@ Aqui estamos colocando ainda em prática a expreções aritiméticas com certo n
 
 | Fórmula do calculo |
 | ------------------ |
-|    A = PI * raio²   |
+|    A = PI * raio²  |
+#
+
+### Diferença
+Aqui estamos colocando ainda em prática a expreções aritiméticas com certo nível de dificuldade.
+
+**Apredemos aqui:**
+- Resultado do calculo de uma diferença.
+
+| Fórmula do calculo |
+| ------------------ |
+| x = a * b - c * d  |
+#
+
+
 
 #
 > **Contato**
