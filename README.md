@@ -62,6 +62,16 @@ Aqui estamos colocando ainda em prática a expreções aritiméticas com certo n
 | x = a * b - c * d  |
 #
 
+### Calculo Produto
+Aqui estamos colocando ainda em prática a expreções aritiméticas com certo nível de dificuldade.
+
+**Apredemos aqui:**
+- Resultado de uma multiplicação e depois uma soma.
+
+| Fórmula do calculo |
+| ------------------ |
+| x = (p1 = a1 * a2) + (p2 = a2 * b2)   |
+#
 
 
 #
